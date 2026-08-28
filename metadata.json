@@ -1,6 +1,5 @@
 {
   "name": "Атырау: Инспекция Объектов Недвижимости",
   "description": "Профессиональное мобильное GIS-приложение для полевой проверки и верификации 130 объектов недвижимости в г. Атырау с GPS-фиксацией, фотоотчетами, навигацией и экспортом в Excel.",
-  "requestFramePermissions": ["geolocation", "camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "requestFramePermissions": ["geolocation", "camera"]
 }
